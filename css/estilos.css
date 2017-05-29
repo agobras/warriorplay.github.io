@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+
+* {
+    box sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Droid Serif', sans-serif;
+    font-size: 100%;
+}
+    
+.contenedor{
+    background: lightgrey;
+    display:flex;
+    max-width:600px;
+    flex-direction: column;
+    text-align:center;
+    margin: 0 auto; 
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background: lightblue;
+    padding: 5%;
+}
+
+section {
+    padding: 5%;
+}
+
+
+
+
+
